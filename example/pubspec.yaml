@@ -1,0 +1,26 @@
+name: glass_one_nav_bar_example
+description: "An example app for glass_one_nav_bar package."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.0.0
+  go_router: ^14.0.0
+  get_it: ^8.0.0
+  equatable: ^2.0.7
+  glass_one_nav_bar:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

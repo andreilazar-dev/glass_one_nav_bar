@@ -1,0 +1,22 @@
+name: glass_one_nav_bar
+description: "A customizable floating bottom navigation bar for Flutter with glassmorphism effects, elastic animations, and built-in accessibility."
+version: 1.0.0
+repository: https://github.com/andreilazar-dev/glass_one_nav_bar
+issue_tracker: https://github.com/andreilazar-dev/glass_one_nav_bar/issues
+homepage: https://andreilazar-dev.com
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+
